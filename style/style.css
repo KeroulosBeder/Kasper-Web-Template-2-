@@ -263,7 +263,7 @@ header .container nav i {
 
 .landing-sec{
     height: 100vh;
-    background-image: url(/imgs/landing.jpg);
+    background-image: url(..//imgs/landing.jpg);
     background-size: cover;
     position: relative;
 }
@@ -566,7 +566,7 @@ line-height: 1.4;
 
 .design-sec{
         position: relative;
-        background-image: url(/imgs/design-features.jpg);
+        background-image: url(..//imgs/design-features.jpg);
         background-size: cover;
         width: 100%;
         display: flex;
@@ -885,7 +885,7 @@ text-transform: uppercase;
 .about-sec .about-content {
     flex-basis: 100%;
    
-    background-image: url(/imgs/stats.png);
+    background-image: url(..//imgs/stats.png);
     position: relative;
     display: flex;
     align-items: center;
@@ -1239,7 +1239,7 @@ margin-bottom: 40px;
 
 
 .quote {
-    background-image: url(/imgs/quote.jpg);
+    background-image: url(..//imgs/quote.jpg);
     position: relative;
     width: 100%;
     height: 300px;
@@ -1448,7 +1448,7 @@ padding-bottom: 50px;
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url(/imgs/subscribe.jpeg);
+    background-image: url(..//imgs/subscribe.jpeg);
     background-position: center center;
     position: relative;
 }
@@ -1659,7 +1659,7 @@ footer {
     padding: 20px 0 80px 0;
     background-color: rgba(0, 0, 0, 0.935);
     color: white;
-    background-image: url(/imgs/subscribe.jpeg);
+    background-image: url(..//imgs/subscribe.jpeg);
 }
 footer::before{
     content:'';
